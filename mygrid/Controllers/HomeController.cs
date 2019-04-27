@@ -10,6 +10,7 @@ namespace mygrid.Controllers
     {
         public ActionResult Index()
         {
+            //
             return View();
         }
 
